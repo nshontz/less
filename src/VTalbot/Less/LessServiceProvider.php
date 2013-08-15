@@ -126,7 +126,7 @@ class LessServiceProvider extends ServiceProvider {
 
                 foreach ($paths as $key => $path)
                 {
-                    $paths[$key] = app_path().$path;
+                    $paths[$key] = base_path().$path;
                 }
 
                 return new FileViewFinder(app('files'), $paths, array('less'));
