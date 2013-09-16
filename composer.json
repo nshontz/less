@@ -1,5 +1,5 @@
 {
-    "name": "UMT/less-compiler",
+    "name": "umt/less-compiler",
     "description": "LESS compiler for Laravel 4",
     "keywords": ["laravel", "less", "illuminate"],
     "license": "MIT",
