@@ -14,7 +14,7 @@
         "leafo/lessphp": "dev-master"
     },
     "autoload": {
-        "psr-0": {"VTalbot\\Less": "src/"}
+        "psr-0": {"NShontz\\Less": "src/"}
     },
     "extra": {
         "branch-alias": {

@@ -1,6 +1,6 @@
 <?php
 
-namespace VTalbot\Less;
+namespace NShontz\Less;
 
 use Closure;
 use Illuminate\Events\Dispatcher;

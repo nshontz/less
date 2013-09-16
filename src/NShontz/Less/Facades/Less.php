@@ -1,6 +1,6 @@
 <?php
 
-namespace VTalbot\Less\Facades;
+namespace NShontz\Less\Facades;
 
 use Illuminate\Support\Facades\Facade;
 

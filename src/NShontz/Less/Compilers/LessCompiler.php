@@ -1,6 +1,6 @@
 <?php
 
-namespace VTalbot\Less\Compilers;
+namespace NShontz\Less\Compilers;
 
 use Illuminate\Filesystem;
 use Illuminate\View\Compilers\Compiler;

@@ -1,6 +1,6 @@
 <?php
 
-namespace VTalbot\Less;
+namespace NShontz\Less;
 
 use \Config;
 use \DateInterval;
