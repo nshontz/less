@@ -1,6 +1,6 @@
 <?php
 
-namespace NShontz\Less\Compilers;
+namespace UMT\Less\Compilers;
 
 use Illuminate\Filesystem;
 use Illuminate\View\Compilers\Compiler;

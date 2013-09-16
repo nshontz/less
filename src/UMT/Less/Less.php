@@ -1,6 +1,6 @@
 <?php
 
-namespace NShontz\Less;
+namespace UMT\Less;
 
 use Illuminate\View\Engines\EngineInterface;
 use Illuminate\Support\Contracts\RenderableInterface as Renderable;

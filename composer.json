@@ -1,5 +1,5 @@
 {
-    "name": "nshontz/less",
+    "name": "UMT/less",
     "description": "LESS compiler for Laravel 4",
     "keywords": ["laravel", "less", "illuminate"],
     "license": "MIT",
@@ -14,7 +14,7 @@
         "leafo/lessphp": "dev-master"
     },
     "autoload": {
-        "psr-0": {"NShontz\\Less": "src/"}
+        "psr-0": {"UMT\\Less": "src/"}
     },
     "extra": {
         "branch-alias": {

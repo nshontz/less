@@ -1,6 +1,6 @@
 <?php
 
-namespace NShontz\Less;
+namespace UMT\Less;
 
 use \Config;
 use \DateInterval;
@@ -12,7 +12,7 @@ use Illuminate\Support\ServiceProvider;
 use Illuminate\View\Engines\CompilerEngine;
 use Illuminate\View\Engines\EngineResolver;
 use Illuminate\View\FileViewFinder;
-use VTalbot\Less\Compilers\LessCompiler;
+use UMT\Less\Compilers\LessCompiler;
 
 class LessServiceProvider extends ServiceProvider {
 

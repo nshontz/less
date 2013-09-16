@@ -1,14 +1,16 @@
 # LESS Compiler for Laravel 4
 
+This is a fork of VTalbot/less
+
 ### Installation
 
 Add to your composer.json those lines
 
     "require": {
-        "vtalbot/less": "1.*"
+        "umt/less": "1.*"
     }
 
-Run `php artisan config:publish vtalbot/less`
+Run `php artisan config:publish nshontz/less`
 
 Then edit `config.php` in `app/packages/vtalbot/less` to your needs.
 
@@ -16,14 +18,14 @@ Update `app/config/app.php` with:
 
     'providers' => array(
         ...
-        'VTalbot\Less\LessServiceProvider',
+        'UMT\Less\LessServiceProvider',
     ),
 
     ...
 
     'aliases' => array(
         ...
-        'Less'            => 'VTalbot\Less\Facades\Less',
+        'Less'            => 'UMT\Less\Facades\Less',
     ),
 
 ### Usage

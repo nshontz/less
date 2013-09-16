@@ -1,6 +1,6 @@
 <?php
 
-namespace NShontz\Less\Facades;
+namespace UMT\Less\Facades;
 
 use Illuminate\Support\Facades\Facade;
 

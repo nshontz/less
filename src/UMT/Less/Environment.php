@@ -1,6 +1,6 @@
 <?php
 
-namespace NShontz\Less;
+namespace UMT\Less;
 
 use Closure;
 use Illuminate\Events\Dispatcher;
